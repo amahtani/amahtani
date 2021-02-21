@@ -10,9 +10,8 @@ Welcome to my personnal GitHub.
 
 <a href="https://www.linkedin.com/in/ankur-victor-mahtani/"><img height="30px" src="linkedin_img.png"/></a>
 
-<img align="left" src="AI_img0.jpeg"/ width="10%" >
+<img align="left" src="AI_img0.jpeg" width="70%" >
 
-<p align="right">
 ## Skills & interests
 
 - PYTHON
@@ -21,19 +20,18 @@ Welcome to my personnal GitHub.
 - GIT
 - HTML5
 - LATEX
-
+<br>
 - OPENCV
 - PCL
 - PYTORCH
 - TENSORFLOW
 - KERAS
-
+<br>
 - GPU
 - ROS
 - SENSORS (cameras, LiDAR, GNSS, IMU, radar)
 - SOLIDWORKS
-</p>
-
+<br>
 
 ## My Github status
 
