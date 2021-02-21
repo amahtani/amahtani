@@ -1,6 +1,6 @@
 Welcome to my personnal GitHub :)
 
-# About me
+# About me
 
 - :mortar_board: Research engineer in robotics and computer vision
 - 🔭 Learning and Developing Machine Learning based projects in Python
@@ -14,28 +14,28 @@ Welcome to my personnal GitHub :)
 
 ## Skills & interests
 
-PYTHON
-C++
-CUDA
-GIT
-HTML5
-LATEX
+- PYTHON
+- C++
+- CUDA
+- GIT
+- HTML5
+- LATEX
 <br>
 
-OPENCV
-PCL
-PYTORCH
-TENSORFLOW
-KERAS
+- OPENCV
+- PCL
+- PYTORCH
+- TENSORFLOW
+- KERAS
 <br>
 
-GPU
-ROS
-SENSORS (cameras, fisheye cameras, thermal cameras, LiDAR, GNSS, IMU, radar)
-SOLIDWORKS
+- GPU
+- ROS
+- SENSORS (cameras, fisheye cameras, thermal cameras, LiDAR, GNSS, IMU, radar)
+- SOLIDWORKS
 <br>
 
-# My Github status
+## My Github status
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amahtani&theme=radical&title_color=8E2DE2&text_color=fff"/>
 <img src="https://github-readme-stats.vercel.app/api?username=amahtani&show_icons=true&bg_color=30,e94393,6e25db&title_color=fff&text_color=fff&icon_color=8E2DE2">
