@@ -7,10 +7,9 @@ Welcome to my personnal GitHub.
 - 🌱 Enthusiast in cyber Security and Artificial Intelligence
 - 💬 Ask me anything about AI
 - 📫 How to reach me: ankurvictor.mahtani@gmail.com
+- <a href="https://www.linkedin.com/in/ankur-victor-mahtani/"><img height="20px" src="linkedin_img.png"/></a>
 
-<a href="https://www.linkedin.com/in/ankur-victor-mahtani/"><img height="30px" src="linkedin_img.png"/></a>
-
-<img align="left" src="AI_img0.jpeg" width="60%" >
+<img align="left" src="AI_img0.jpeg" width="55%" >
 
 ## Skills & interests
 
@@ -18,8 +17,6 @@ Welcome to my personnal GitHub.
 - C++
 - CUDA
 - GIT
-- HTML5
-- LATEX
 <br>
 
 - OPENCV
@@ -29,7 +26,6 @@ Welcome to my personnal GitHub.
 - KERAS
 <br>
 
-- GPU
 - ROS
 - SENSORS (cameras, LiDAR, GNSS, IMU, radar)
 - SOLIDWORKS
