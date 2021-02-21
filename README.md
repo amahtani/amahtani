@@ -9,7 +9,7 @@ Welcome to my personnal GitHub.
 - 📫 How to reach me: ankurvictor.mahtani@gmail.com
 - <a href="https://www.linkedin.com/in/ankur-victor-mahtani/"><img height="20px" src="linkedin_img.png"/></a>
 
-<img align="left" src="AI_img0.jpeg" width="55%" >
+<img align="left" src="AI_img0.jpeg" width="60%" >
 
 ## Skills & interests
 
@@ -29,11 +29,6 @@ Welcome to my personnal GitHub.
 - ROS
 - SENSORS (cameras, LiDAR, GNSS, IMU, radar)
 - SOLIDWORKS
-<br>
-<br>
-<br>
-<br>
-
 
 ## My Github status
 
