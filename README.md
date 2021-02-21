@@ -28,7 +28,7 @@ Welcome to my personnal GitHub.
 
 - ROS
 - SENSORS (cameras, LiDAR, GNSS, IMU, radar)
-- SOLIDWORKS
+<br>
 
 ## My Github status
 
