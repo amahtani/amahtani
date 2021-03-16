@@ -17,7 +17,6 @@ Welcome to my personnal GitHub.
 - PYTHON
 - C++
 - CUDA
-- GIT
 <br>
 
 - OPENCV
