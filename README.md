@@ -10,7 +10,7 @@ Welcome to my personnal GitHub.
 - <a href="https://www.linkedin.com/in/ankur-victor-mahtani/"><img height="20px" src="linkedin_img.png"/></a>
 <br>
 
-<img align="left" src="AI_img0.jpeg" width="60%" >
+<img align="left" src="AI_img0.jpeg" width="55%" >
 
 ## Skills & interests
 
