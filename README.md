@@ -27,8 +27,8 @@ Welcome to my personnal GitHub.
 | ------------- | ------------- | ------------- |
 | PYTHON  | OPENCV | ROS |
 | C/C++  | PCL | GPU |
-| CUDA  | PYTORCH | Cameras |
-| SHELL / BASH | TENSORFLOW | LiDAR & RADAR |
+| CUDA  | PYTORCH | CAMERAS |
+| SHELL & BASH | TENSORFLOW | LIDAR & RADAR |
 | TensorRT | KERAS | GNSS & IMU |
 
 
