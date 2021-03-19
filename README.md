@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/amahtani/amahtani/blob/master/readme.gif">
+</p>
+
 Welcome to my personnal GitHub.
 
 # About me
@@ -7,10 +11,11 @@ Welcome to my personnal GitHub.
 - 🌱 Enthusiast in cyber Security and Artificial Intelligence
 - 💬 Ask me anything about AI
 - 📫 How to reach me: ankurvictor.mahtani@gmail.com
-- <a href="https://www.linkedin.com/in/ankur-victor-mahtani/"><img height="20px" src="linkedin_img.png"/></a>
+
+<a href="https://www.linkedin.com/in/ankur-victor-mahtani/"><img height="20px" src="linkedin_img.png"/></a>
 <br>
 
-<img align="left" src="AI_img0.jpeg" width="55%" >
+<img align="center" src="AI_img0.jpeg" width="70%" >
 
 ## Skills & interests
 
@@ -29,7 +34,7 @@ Welcome to my personnal GitHub.
 - ROS
 - SENSORS (cameras, LiDAR, GNSS, IMU, radar)
 <br>
-<br>
+
 
 ## My Github status
 
