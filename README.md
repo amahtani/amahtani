@@ -1,8 +1,10 @@
+Welcome to my personnal GitHub.
+<br>
+
 <p align="center">
-  <img src="https://github.com/amahtani/amahtani/blob/master/readme.gif">
+  <img src="https://github.com/amahtani/amahtani/blob/main/hello.gif" width="60%" >
 </p>
 
-Welcome to my personnal GitHub.
 
 # About me
 
