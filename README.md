@@ -39,9 +39,9 @@ Welcome to my personnal GitHub.
 
 <p align="left">
   <a href="https://github.com/amahtani/amahtani">
-    <img src="https://komarev.com/ghpvc/?username=amahtani" alt="page views" width="50%" />
+    <img src="https://komarev.com/ghpvc/?username=amahtani" alt="page views" />
   </a>
   <a href="https://github.com/amahtani?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/amahtani?color=green&logo=github" width=50%">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/amahtani?color=green&logo=github" width=40%">
   </a>
 </p>
