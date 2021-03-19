@@ -2,7 +2,7 @@ Welcome to my personnal GitHub.
 <br>
 
 <p align="center">
-  <img src="https://github.com/amahtani/amahtani/blob/main/hello.gif" width="60%" >
+  <img src="https://github.com/amahtani/amahtani/blob/main/hello.gif" width="70%" >
 </p>
 
 
@@ -17,25 +17,19 @@ Welcome to my personnal GitHub.
 <a href="https://www.linkedin.com/in/ankur-victor-mahtani/"><img height="20px" src="linkedin_img.png"/></a>
 <br>
 
+<p align="center">
 <img align="center" src="AI_img0.jpeg" width="70%" >
+</p>
 
 ## Skills & interests
 
-- PYTHON
-- C++
-- CUDA
-<br>
-
-- OPENCV
-- PCL
-- PYTORCH
-- TENSORFLOW
-- KERAS
-<br>
-
-- ROS
-- SENSORS (cameras, LiDAR, GNSS, IMU, radar)
-<br>
+| Languages  | Computer vision | Robotics & sensors |
+| ------------- | ------------- | ------------- |
+| PYTHON  | OPENCV | ROS |
+| C/C++  | PCL | GPU |
+| CUDA  | PYTORCH | Cameras |
+| SHELL / BASH | TENSORFLOW | LiDAR & RADAR |
+| TensorRT | KERAS | GNSS & IMU |
 
 
 ## My Github status
