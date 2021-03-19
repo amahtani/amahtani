@@ -35,13 +35,13 @@ Welcome to my personnal GitHub.
 ## My Github status
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amahtani&theme=radical&title_color=8E2DE2&text_color=fff"/>
-<img src="https://github-readme-stats.vercel.app/api?username=amahtani&show_icons=true&bg_color=30,e94393,6e25db&title_color=fff&text_color=fff&icon_color=8E2DE2">
+<img src="https://github-readme-stats.vercel.app/api?username=amahtani&show_icons=true&bg_color=30,e94393,6e25db&title_color=fff&text_color=fff&icon_color=8E2DE2" width="50%" >
 
 <p align="left">
   <a href="https://github.com/amahtani/amahtani">
-    <img src="https://komarev.com/ghpvc/?username=amahtani" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=amahtani" alt="page views"/>
   </a>
   <a href="https://github.com/amahtani?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/amahtani?color=green&logo=github" width=40%">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/amahtani?color=green&logo=github">
   </a>
 </p>
